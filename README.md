@@ -17,9 +17,9 @@ One more thing, the controller work is done in the main.py, hence I thought impl
 
 Just like any other piece of code, this project can also be improved.
 
-- First thing that comes to my mind is, parsing the input. I think if the input is parsed with a regular parser like ANTLR, things will get much simple.
-..* Mistakes in input can be easily gathered
-..* The visitor pattern would make implementation much easier
-..* Will get a DSL(Domain Specific Language) feel... Just for parking lot management
+1. First thing that comes to my mind is, parsing the input. I think if the input is parsed with a regular parser like ANTLR, things will get much simple.
+* Mistakes in input can be easily gathered
+* The visitor pattern would make implementation much easier
+* Will get a DSL(Domain Specific Language) feel... Just for parking lot management
 
 
