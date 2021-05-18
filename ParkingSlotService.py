@@ -49,7 +49,7 @@ class ParkingSlotService:
         if parkingSlot.isValid():
             print('Slot number ' + str(parkingSlot.slotNumber) +
                   ' vacated, the car with vehicle registration number "' + parkingSlot.carRegistrationNumber +
-                  '" left the space, the driver of the car was of age' + str(parkingSlot.driverAge))
+                  '" left the space, the driver of the car was of age ' + str(parkingSlot.driverAge))
             self.repo.removeCarFromParkingLot(parkingSlot)
             self.unBlockParkingSlot(slotNumber)
         else:
