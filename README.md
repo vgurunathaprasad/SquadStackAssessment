@@ -30,10 +30,10 @@ Just like any other piece of code, this project can also be improved.
 git clone https://github.com/vgurunathaprasad/SquadStackAssessment.git
 ```
 
-* Open Terminal or Command Prompt, switch to cloned directory
-* Make sure you have Python 3.x.
-* Run ```main.py``` as ```python main.py```
+* Open Terminal or Command Prompt, switch to cloned directory ```cd SquadStackAssessment```
+* Make sure you have ```Python 3.x``` with ```python -v```
+* Run ```main.py``` as ```python main.py``` or ````python3 main.py```
 * You will see a prompt with ```#``` ready to get input
-* Use (query sample)[https://gist.github.com/agrawal-vatsal/19d2c4fb7b7aacda8fb4672aad68e0c9] as reference to interact with the Shell
+* Use [query sample](https://gist.github.com/agrawal-vatsal/19d2c4fb7b7aacda8fb4672aad68e0c9) as reference to interact with the Shell
 * Type ```Quit``` to exit
 
