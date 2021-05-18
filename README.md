@@ -22,4 +22,18 @@ Just like any other piece of code, this project can also be improved.
 * The visitor pattern would make implementation much easier
 * Will get a DSL(Domain Specific Language) feel... Just for parking lot management
 
+### How to run
+--------------
+
+* Clone the repo with:
+```
+git clone https://github.com/vgurunathaprasad/SquadStackAssessment.git
+```
+
+* Open Terminal or Command Prompt, switch to cloned directory
+* Make sure you have Python 3.x.
+* Run ```main.py``` as ```python main.py```
+* You will see a prompt with ```#``` ready to get input
+* Use (query sample)[https://gist.github.com/agrawal-vatsal/19d2c4fb7b7aacda8fb4672aad68e0c9] as reference to interact with the Shell
+* Type ```Quit``` to exit
 
