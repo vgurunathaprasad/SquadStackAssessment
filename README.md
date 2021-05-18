@@ -34,6 +34,6 @@ git clone https://github.com/vgurunathaprasad/SquadStackAssessment.git
 * Make sure you have ```Python 3.x``` with ```python -v```
 * Run ```main.py``` as ```python main.py``` or ````python3 main.py```
 * You will see a prompt with ```#``` ready to get input
-* Use [query sample](https://gist.github.com/agrawal-vatsal/19d2c4fb7b7aacda8fb4672aad68e0c9) as reference to interact with the Shell
-* Type ```Quit``` to exit
+* Use [query sample](https://gist.github.com/agrawal-vatsal/19d2c4fb7b7aacda8fb4672aad68e0c9) as reference to interact with the shell
+* Type ```Quit``` to exit the shell
 
